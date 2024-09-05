@@ -1,0 +1,23 @@
+# Hauptüberschrift
+
+Dies ist die Hauptüberschrift des Dokuments.
+
+## Unterüberschrift
+
+Dies ist eine Unterüberschrift, die detailliertere Informationen enthält.
+
+### Tabelle
+
+Hier ist eine einfache Tabelle:
+
+| Name  | Alter | Beruf       |
+| ----- | ----- | ----------- |
+| Anna  | 28    | Ingenieurin |
+| Ben   | 34    | Lehrer      |
+| Clara | 25    | Designerin  |
+
+### Bild
+
+Hier ist ein Beispielbild:
+
+![](https://moodle.ksb-sg.ch/pluginfile.php/1/theme_remui/logomini/1722491634/Moodle%20%2840%20x%2040%20px%29%20%281%29.svg)
