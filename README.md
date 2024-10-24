@@ -12,5 +12,5 @@ Um das Projekt lokal zu installieren, folge diesen Schritten:
 
 1. Repository klonen:
    ```bash
-   git clone https://github.com/deinbenutzername/deinrepo.git
+   git clone https://github.com/abelsolomon1/M321.git
    cd deinrepo
