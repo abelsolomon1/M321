@@ -14,3 +14,5 @@ Um das Projekt lokal zu installieren, folge diesen Schritten:
    ```bash
    git clone https://github.com/abelsolomon1/M321.git
    cd deinrepo
+## GitLab Dokumentation
+Während des Ganzen Moduls wurde eine Dokumentatonsseite mihilfe von Mkdocs auf GitLab erstellt. Hier können Sie auf die Seite gelangen: https://as_ims.gitlab.io/m321_doku_as/
